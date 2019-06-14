@@ -1,0 +1,6 @@
+{
+    "name": "vendor/file",
+    "require": {
+        "aws/aws-sdk-php": "^3.100"
+    }
+}
